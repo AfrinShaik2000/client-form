@@ -4,7 +4,6 @@
 }
 body{
     max-width: 700px;
-    /* border: 2px solid black; */
     margin-left: auto;
     margin-right: auto;
     background-image:radial-gradient(#7F673D,#484E5E) ;
@@ -25,7 +24,6 @@ header{
     line-height: 1.2;
 }
 form{
-    /* line-height: 2.095; */
     padding: 30px 0px;
     background-color: white;
 }
@@ -162,7 +160,6 @@ input:hover,select:hover,textarea:hover{
     }
     form{
         margin: auto;
-        /* border: 2px solid black; */
         padding: 18px;
     }
     .s-line,.phone,.subline{
